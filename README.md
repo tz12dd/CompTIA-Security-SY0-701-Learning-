@@ -7,11 +7,11 @@ Welcome to my active study repository for the **CompTIA Security+ (SY0-701)** ce
 ## 📊 Exam Readiness Tracker
 This checklist tracks my progress across the five official exam domains. 
 
-- [/] **Domain 1.0: General Security Concepts (12%)** — *In Progress*
-- [ ] **Domain 2.0: Threats, Vulnerabilities, and Mitigations (22%)** — *Not Started*
-- [ ] **Domain 3.0: Security Architecture (18%)** — *Not Started*
-- [ ] **Domain 4.0: Security Operations (28%)** — *Not Started*
-- [ ] **Domain 5.0: Security Management and Oversight (20%)** — *Not Started*
+- [ ] **Domain 1.0: General Security Concepts (12%)** 
+- [ ] **Domain 2.0: Threats, Vulnerabilities, and Mitigations (22%)** 
+- [ ] **Domain 3.0: Security Architecture (18%)** 
+- [ ] **Domain 4.0: Security Operations (28%)** 
+- [ ] **Domain 5.0: Security Management and Oversight (20%)** 
 
 ---
 
